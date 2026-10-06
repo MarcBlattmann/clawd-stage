@@ -2,15 +2,7 @@
 
 A Claude Code mod: Clawd moves into a band above the prompt and plays 200 animations with props, friends and full-width scenery.
 
-```
-                      ░▒▓▓▒░               ·  ░░▒░
-───────────────────────────┼────────────────────────▒───────────────┼──────◢◣─
- ▄█▄                   ▲ ◢◣│           ▄█▄ ▄▄▄▄      ▄▄▄      ▄█▄   │     ◢██◣
- ▀█▀          -   ─ ▗▟▂███▂█▄  ▗▄▄▄▄▄▄▄▄▄▖ █▀▀█  ▗▖  ▐█▌      ▀█▀   │    ◢████
-  │       ·          ▜██████▘  █▪█▪█▪█▪█▪█ ████▄▄▄▄▄▄███▄●     │    │
-                   ▙▄▄▄▄▄▄▄▄▄▟─███████████─██████████████▙          │
-═══╪════╪═   ╪    ╪ ●▀▀▀▀▀▀▀●   ●▀▀▀▀▀▀▀●  ╪ ●═●═●  ●▀●  ◣╪    ╪ ═══╪════╪════
-```
+<img width="2876" height="396" alt="Screenshot_2026-10-06_14-02-15" src="https://github.com/user-attachments/assets/ee3b8e36-8486-4358-9977-d4ed1484b6af" />
 
 ## Install
 

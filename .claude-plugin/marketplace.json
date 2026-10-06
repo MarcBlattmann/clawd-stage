@@ -1,0 +1,17 @@
+{
+  "name": "clawd-stage",
+  "owner": {
+    "name": "Marc Blattmann",
+    "url": "https://github.com/MarcBlattmann"
+  },
+  "metadata": {
+    "description": "Clawd stage animations for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "clawd-stage",
+      "source": "./",
+      "description": "Clawd lives in a band above the prompt and plays 200 animations, every second one with full-width scenery"
+    }
+  ]
+}
